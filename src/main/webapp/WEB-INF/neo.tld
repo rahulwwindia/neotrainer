@@ -1,0 +1,72 @@
+<taglib>
+  <tlib-version>1.0</tlib-version>
+  <jsp-version>2.0</jsp-version>
+  <short-name>dataTable</short-name>
+  <info>NeoSoft TagLibrary</info>
+  <tag>
+  
+    <name>dataTable</name>
+    <tag-class>com.customtags.taglibs.DataTableTagHandler</tag-class>
+    <body-content>scriptless</body-content>
+    <info>creating DataTable</info>
+    <attribute>
+    	<name>id</name>
+    	<required>false</required>
+    	<description>Tag Id</description>      	  
+    </attribute>
+    <attribute>	
+    	<name>name</name>
+    	<required>true</required>
+    	<description>Tag Name</description>
+    </attribute>
+    <attribute>	
+    	<name>dtBorder</name>
+    	<required>false</required>
+    	<description>sets DataTable border</description>    	
+    </attribute>
+    <attribute>
+    	<name>dtWidth</name>
+    	<required>false</required>
+    	<description>sets DataTable width</description>
+    </attribute>
+    <attribute>
+    	<name>dtHeight</name>
+    	<required>false</required>
+    	<description>sets DataTable Height</description>
+    </attribute>
+    <attribute>
+       <name>tableId</name>       
+      <required>true</required>
+      <description>sets DataTable Id</description>
+    </attribute>
+    <attribute>
+    	<name>labels</name>
+    	<required>true</required>
+    	<description>sets DataTable Header labels.It must consists comma separated header labels</description>
+    </attribute>   
+    <attribute>
+    	<name>dataList</name>
+    	<required>true</required>
+    	<rtexprvalue>true</rtexprvalue>
+    	<type>java.util.List</type>
+    	<description>specifies dataList to be displayed and contains form Bean Objects</description>
+    </attribute>
+    <attribute>	
+    	<name>formBean</name>
+    	<required>false</required>
+    	<description>specifies bean Class type for dataList</description>    	    
+    </attribute>
+    <attribute>
+    	<name>formBeanColumn</name>
+    	<required>false</required>
+    	<description>specifies bean Class properties to be displayed in DataTable</description>
+    </attribute>  
+    <attribute>
+    	<name>isDisplayLength</name>
+    	<required>false</required>
+    	<type>java.lang.Boolean</type>
+    	<description>shows data List Length</description>
+    </attribute>
+    
+  </tag>
+</taglib>

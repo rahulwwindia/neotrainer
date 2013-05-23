@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/scm/svn/NeoTrainer/!svn/ver/735/neotrainer/src/main/webapp/WEB-INF/views/adminonline
+END
+adminTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/scm/svn/NeoTrainer/!svn/ver/319/neotrainer/src/main/webapp/WEB-INF/views/adminonline/adminTemplate.jsp
+END
+menu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/svn/NeoTrainer/!svn/ver/136/neotrainer/src/main/webapp/WEB-INF/views/adminonline/menu.jsp
+END
+adminTest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/scm/svn/NeoTrainer/!svn/ver/776/neotrainer/src/main/webapp/WEB-INF/views/adminonline/adminTest.jsp
+END
+adminTestAjax.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/scm/svn/NeoTrainer/!svn/ver/776/neotrainer/src/main/webapp/WEB-INF/views/adminonline/adminTestAjax.jsp
+END
+adminTestQuest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/scm/svn/NeoTrainer/!svn/ver/776/neotrainer/src/main/webapp/WEB-INF/views/adminonline/adminTestQuest.jsp
+END

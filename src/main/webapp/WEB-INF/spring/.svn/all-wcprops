@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/scm/svn/NeoTrainer/!svn/ver/768/neotrainer/src/main/webapp/WEB-INF/spring
+END
+db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/scm/svn/NeoTrainer/!svn/ver/272/neotrainer/src/main/webapp/WEB-INF/spring/db.xml
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/svn/NeoTrainer/!svn/ver/768/neotrainer/src/main/webapp/WEB-INF/spring/spring-security.xml
+END
+root-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/scm/svn/NeoTrainer/!svn/ver/134/neotrainer/src/main/webapp/WEB-INF/spring/root-context.xml
+END

@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+.questTextArea {
+	min-width: 530px;
+	min-height: 70px;
+	max-width: 530px;
+	max-height: 250px;
+}
+.oTextArea{
+		min-width: 530px;
+	min-height: 50px;
+	max-width: 530px;
+	max-height: 250px;
+}

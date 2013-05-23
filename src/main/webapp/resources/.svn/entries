@@ -1,0 +1,55 @@
+10
+
+dir
+771
+http://180.149.243.244:8080/scm/svn/NeoTrainer/neotrainer/src/main/webapp/resources
+http://180.149.243.244:8080/scm/svn/NeoTrainer
+
+
+
+2013-03-29T16:40:51.604000Z
+759
+rajvinder.janjuha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a851113f-3c01-0010-9cb0-f1bd9d006f4f
+
+UploadedImage
+dir
+
+assets
+dir
+
+css
+dir
+
+demoapp
+dir
+
+images
+dir
+
+js
+dir
+
+pom
+dir
+
+resume
+dir
+
+uploadfile
+dir
+

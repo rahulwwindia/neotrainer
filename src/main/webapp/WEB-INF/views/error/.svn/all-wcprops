@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/scm/svn/NeoTrainer/!svn/ver/621/neotrainer/src/main/webapp/WEB-INF/views/error
+END
+404Error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/NeoTrainer/!svn/ver/621/neotrainer/src/main/webapp/WEB-INF/views/error/404Error.jsp
+END
+500Error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/NeoTrainer/!svn/ver/621/neotrainer/src/main/webapp/WEB-INF/views/error/500Error.jsp
+END

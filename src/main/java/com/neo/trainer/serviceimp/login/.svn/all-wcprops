@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/svn/NeoTrainer/!svn/ver/765/neotrainer/src/main/java/com/neo/trainer/serviceimp/login
+END
+LoginServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/scm/svn/NeoTrainer/!svn/ver/629/neotrainer/src/main/java/com/neo/trainer/serviceimp/login/LoginServiceImpl.java
+END
+CustomAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/scm/svn/NeoTrainer/!svn/ver/765/neotrainer/src/main/java/com/neo/trainer/serviceimp/login/CustomAuthenticationProvider.java
+END
+RegisterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/scm/svn/NeoTrainer/!svn/ver/176/neotrainer/src/main/java/com/neo/trainer/serviceimp/login/RegisterServiceImpl.java
+END

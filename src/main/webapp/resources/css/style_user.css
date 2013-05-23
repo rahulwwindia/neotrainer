@@ -1,0 +1,188 @@
+body{font-size:14px !important; font-family:Arial, Helvetica, sans-serif}
+
+.textfield {
+    background-color: #F8F8F8;
+    border: 1px solid #DDDDDD;
+    height: 30px;
+    margin: 5px 0 0;
+    padding: 5px;
+    width: 320px;
+}
+#accountContent2.full-wid {
+    width: 958px !important;
+} 
+.subtMenu{border-right:1px solid #000}
+.headForm{margin:0; height:120px; border-left:1px solid #444; padding:10px 0 0 15px;}
+#contentBox{width:960px; margin:0 auto}
+#accountContent2{background:#fff; min-height:820px;}
+#transferCredit{background:#fff; min-height:820px;float: left;width: 762px;font-family: Arial,Helvetica,sans-serif;font-size: 16px;}
+#accountSubBox{margin:0; }
+ul.submenu{list-style:none; padding:0;}
+ul.submenu li{font-family:"Verdana", Geneva, sans-serif; font-size:14px; padding:5px 0px 5px 20px; border-bottom:1px solid #222; border-top:1px solid #000; text-transform:capitalize}
+ul.submenu li.first{border-top:0;}
+ul.submenu li a{color:#fff; text-decoration:none;}
+ul.submenu li:hover {background-color:#F6921E}
+ul.submenu li:hover a{color:#fff}
+#login {border:8px solid #f8f8f8; width:400px; height:334pxs; margin:0 auto; padding:1px; margin-top:100px}
+#login ul {list-style:none; padding:30px; margin:0}
+#login ul li {padding:0 0 10px 0}  
+#login ul li label {display:block} 
+#contentTitle{color:#F6921E; font-size:22px; height:14px; border-bottom:1px solid #F6921E; margin: 20px 0 30px 10px; font-family:"Verdana", Geneva, sans-serif; padding-left:20px;}
+.title{background:#fff; padding:5px; text-transform:uppercase}
+
+#contentTx4{background:#f0f0f0; margin:0 10px; -webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+behavior: url(PIE.htc); position:relative; color:#4C4C4C; font-size:12px; font-family:Verdana, Geneva, sans-serif; margin-bottom:20px;}
+
+#contentTx4 .head{background:#c0c0c0; color:black;-webkit-border-radius: 8px 8px 0 0;
+-moz-border-radius: 8px 8px 0 0;
+border-radius: 8px 8px 0 0;
+behavior: url(PIE.htc); position:relative; font-size:16px; padding:5px 10px;}
+#contentTx4 .content{padding:10px 20px;}
+#contentTx4 .content ul{padding-left:10px;}
+
+.head{background:#c0c0c0; color:black; position:relative; font-size:16px; padding:5px 10px; margin:10px 0; text-align:left;}
+
+.table thead td{font-size:12px; font-weight:normal; align:center}
+ 
+.tabs-head{height:34px; background:#c0c0c0; 
+-webkit-border-radius: 8px 8px 0 0;
+-moz-border-radius: 8px 8px 0 0;
+border-radius: 8px 8px 0 0;
+behavior: url(PIE.htc); overflow:hidden}
+.tabs-head.inner{margin-top:20px;}
+.tabs-head-text{color: black; font-family: Verdana; text-align: center; font-size: 12px;}
+.tabs-head-text.active{background:#909090; color:white;}
+.myAccountbody{background:#f0f0f0; width:auto; text-align:center; margin: 0 10px 20px; padding: 5px 20px;}
+.border{border-left:1px solid #acacac; border-right:1px solid #c6c6c6; width:0px; display:block; height:34px;}
+.tableprofile{width:100%;}
+
+table.tab-btn {color:#fff; font-weight:bold; text-align:center;}
+table.tab-btn td {height:34px; line-height:34px; cursor:pointer; border-right:1px solid #F0F0F0}
+table.tab-btn td.active, table.tab-btn td:hover {background:#909090}
+table.tab-btn td.last-btn {border-right:0}
+.tabs-inner {padding:20px 30px 15px 30px}
+
+.accountWhiteBoxTitle{margin:0; background:#c0c0c0; color:black; position:relative; font-size:16px; padding:5px 10px; text-align:left; font-family:Verdana, Geneva, sans-serif;}
+.accountWhiteBoxBody1{margin:0; width:auto;}
+
+.blue-button, input[type="submit"].blue-button{-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px; 
+background: #2cb9e0;
+background:url(../images/nav-gradient.png) 0 0 repeat-x #fff;
+behavior: url(PIE.htc); height:20px; border-width:0px; text-align:center; border:1px solid #6f2700; color:white; cursor:pointer; font-family:Verdana, Geneva, sans-serif; font-size:11px; line-height:16px !important; padding:3px 10px; text-decoration:none; font-weight:bold; margin-bottom:10px}
+input[type="submit"].blue-button, input[type="button"].blue-button{height:30px;}
+ 
+.blue-button:hover{background:url(../images/nav-gradient-hvr.png) 0 0 repeat-x #fff; color:#fff}
+
+.paymentaccepted{
+
+float: left;  
+width:100%; 
+padding-left: 0;
+/*background: url(images/contentleft.jpg) top repeat-x;*/
+margin-top: 0px;
+margin-bottom: 0px;
+display: block;
+text-align:center;
+}
+
+.tablepayment
+{
+	/*color: #5993a2;*/
+	font-size: 13px;
+    font-style: normal;
+    width: 80%;
+	/*background-color:#E0E0E0;*/
+}
+
+.tablepayment th 
+{
+	padding:3px 0 3px 5px;
+	text-align:left;
+}
+
+.tablepayment td
+{
+    padding:3px 0px 0px 39px;  
+	/*padding:3px 0 3px 5px;*/
+	text-align:left;
+	width:40%;
+}
+ 
+.tablepayment .label    
+{
+	color:#000000;
+}
+ 
+.tablepayment .lastrow
+{
+	color: #5993a2;
+	font-family:Myriad pro, Arial, Helvetica, sans-serif;
+	font-style:normal;
+	font-size:x-small;	
+	width: 100%;
+	text-align:center;
+}
+
+#payments{
+list-style: none;
+display: inline;
+width:297px;
+margin: 0;
+padding: 0;}
+.sm, #contentleft p.sm{font-size: 12px;}
+#payments{
+list-style: none;
+display: inline;
+width:297px;
+margin: 0;
+padding: 0;}
+#payments li{
+display: inline-block;
+width: 70px;
+height: 40px;
+margin:10px 0 10px 0;
+}
+#payments li a{
+	width: 70px;
+	height: 40px;
+	display: block;
+	text-indent: -9999px;
+}
+
+#payments #visa{
+background: url(../images/1visa.gif) no-repeat;}
+#payments #mastercard{
+background: url(../images/2mastercard.gif) no-repeat;}
+#payments #amex{
+background: url(../images/3amex.gif) no-repeat;}
+#payments #discover{
+background: url(../images/4disc.gif) no-repeat;}
+#payments #paypal{
+background: url(../images/5paypal.gif) no-repeat;}
+#payments #webmoney{
+background: url(../images/6webmoney.gif) no-repeat;}
+#payments #ukash{
+background: url(../images/th_logo_ukash.gif) no-repeat;}
+#payments #interac{
+background: url(../images/7interac.gif) no-repeat;}
+#payments #rindex{
+background: url(../images/8rindex.gif) no-repeat;}
+.turquoise{
+color: #5F778B;}
+
+
+.morehalf.col{
+	width: 50%;
+	padding-left: 0;
+	float: left;
+}
+.lesshalf.col{
+	width: 42%;
+	padding-left: 3%;
+	float: left;
+}
+

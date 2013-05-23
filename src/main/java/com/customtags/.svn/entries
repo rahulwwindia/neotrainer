@@ -1,0 +1,31 @@
+10
+
+dir
+771
+http://180.149.243.244:8080/scm/svn/NeoTrainer/neotrainer/src/main/java/com/customtags
+http://180.149.243.244:8080/scm/svn/NeoTrainer
+
+
+
+2013-03-08T12:30:38.601000Z
+453
+rajvinder.janjuha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a851113f-3c01-0010-9cb0-f1bd9d006f4f
+
+taglibs
+dir
+

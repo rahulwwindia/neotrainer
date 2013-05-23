@@ -1,0 +1,46 @@
+10
+
+dir
+771
+http://180.149.243.244:8080/scm/svn/NeoTrainer/neotrainer/src/main/java/com/neo/trainer/controllers/admin
+http://180.149.243.244:8080/scm/svn/NeoTrainer
+
+
+
+2013-03-28T13:13:51.566000Z
+750
+rajvinder.janjuha
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a851113f-3c01-0010-9cb0-f1bd9d006f4f
+
+Technology
+dir
+
+dashboard
+dir
+
+demoapp
+dir
+
+generator
+dir
+
+onlinetest
+dir
+
+technology
+dir
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/scm/svn/NeoTrainer/!svn/ver/753/neotrainer/src/main/webapp/WEB-INF/views/onlinetest
+END
+registerCand.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/scm/svn/NeoTrainer/!svn/ver/348/neotrainer/src/main/webapp/WEB-INF/views/onlinetest/registerCand.jsp
+END
+loginCandidate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/scm/svn/NeoTrainer/!svn/ver/313/neotrainer/src/main/webapp/WEB-INF/views/onlinetest/loginCandidate.jsp
+END
+test.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/scm/svn/NeoTrainer/!svn/ver/136/neotrainer/src/main/webapp/WEB-INF/views/onlinetest/test.jsp
+END
+startTest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/scm/svn/NeoTrainer/!svn/ver/774/neotrainer/src/main/webapp/WEB-INF/views/onlinetest/startTest.jsp
+END
+onlineTest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/scm/svn/NeoTrainer/!svn/ver/601/neotrainer/src/main/webapp/WEB-INF/views/onlinetest/onlineTest.jsp
+END
+results.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/scm/svn/NeoTrainer/!svn/ver/602/neotrainer/src/main/webapp/WEB-INF/views/onlinetest/results.jsp
+END

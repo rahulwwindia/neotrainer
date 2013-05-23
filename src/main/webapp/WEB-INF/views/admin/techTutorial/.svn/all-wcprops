@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/NeoTrainer/!svn/ver/750/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial
+END
+saveTechnology.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/scm/svn/NeoTrainer/!svn/ver/216/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/saveTechnology.jsp
+END
+addNewPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/scm/svn/NeoTrainer/!svn/ver/750/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/addNewPage.jsp
+END
+getTechTute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/scm/svn/NeoTrainer/!svn/ver/382/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/getTechTute.jsp
+END
+addTechTutePopup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/svn/NeoTrainer/!svn/ver/727/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/addTechTutePopup.jsp
+END
+ExistResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/scm/svn/NeoTrainer/!svn/ver/750/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/ExistResult.jsp
+END
+addTechPopup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/scm/svn/NeoTrainer/!svn/ver/216/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/addTechPopup.jsp
+END
+saveTechTute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/scm/svn/NeoTrainer/!svn/ver/721/neotrainer/src/main/webapp/WEB-INF/views/admin/techTutorial/saveTechTute.jsp
+END

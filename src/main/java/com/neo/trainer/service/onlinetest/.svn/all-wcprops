@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/NeoTrainer/!svn/ver/770/neotrainer/src/main/java/com/neo/trainer/service/onlinetest
+END
+LoginCandidateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/scm/svn/NeoTrainer/!svn/ver/597/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/LoginCandidateService.java
+END
+DisplayQuestionsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/scm/svn/NeoTrainer/!svn/ver/340/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/DisplayQuestionsService.java
+END
+QuestionSetService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/scm/svn/NeoTrainer/!svn/ver/130/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/QuestionSetService.java
+END
+QuestionsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/scm/svn/NeoTrainer/!svn/ver/389/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/QuestionsService.java
+END
+ResultService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/scm/svn/NeoTrainer/!svn/ver/576/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/ResultService.java
+END
+RegisterCandidateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/scm/svn/NeoTrainer/!svn/ver/130/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/RegisterCandidateService.java
+END
+TestService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/scm/svn/NeoTrainer/!svn/ver/770/neotrainer/src/main/java/com/neo/trainer/service/onlinetest/TestService.java
+END

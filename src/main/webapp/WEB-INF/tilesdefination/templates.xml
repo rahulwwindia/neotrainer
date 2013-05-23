@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+
+<tiles-definitions>
+
+	<definition name=".mainTemplate" template="/WEB-INF/views/main/bodyTemplate.jsp">
+		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp" />
+		<put-attribute name="body" value=""></put-attribute>
+		<put-attribute name="right" value="/WEB-INF/tiles/right.jsp" />
+		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp" />
+	</definition>
+
+<definition name=".facadeTemplate" template="/WEB-INF/views/main/bodyTemplate.jsp">
+		<put-attribute name="header" value="/WEB-INF/tiles/facadeHeader.jsp" />
+		<put-attribute name="body" value=""></put-attribute>
+		<put-attribute name="right" value="/WEB-INF/tiles/right.jsp" />
+		<put-attribute name="footer" value="/WEB-INF/tiles/footer.jsp" />
+	</definition>
+
+
+
+
+	<definition name="home" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/home/home.jsp" />
+	</definition>
+
+	<definition name="onlineTest" template="/WEB-INF/views/onlinetest/onlineTest.jsp">
+	</definition>  
+	  
+	<definition name="startTest" template="/WEB-INF/views/onlinetest/startTest.jsp">
+	</definition> 
+	
+	<definition name="showTestResult" template="/WEB-INF/views/onlinetest/results.jsp">
+	</definition> 
+  
+	<definition name="adminTest" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/adminTest.jsp" />
+	</definition>
+  
+	<definition name="addQuestSet" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questSet/addQuestSet.jsp" />
+	</definition>
+	<definition name="addNewPage" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/techTutorial/addNewPage.jsp" />
+	</definition>
+	<definition name="editQuestSet" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questSet/editQuestSet.jsp" />
+	</definition>
+	<definition name="deleteQuestSet" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questSet/deleteQuestSet.jsp" />
+	</definition>
+
+	<definition name="getQuestions"
+		template="/WEB-INF/views/adminonline/adminTestQuest.jsp">
+	</definition>
+
+	<definition name="editQuest" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questions/editQuestion.jsp" />
+	</definition>
+
+	<definition name="deleteQuest" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questions/deleteQuestion.jsp" />
+	</definition>
+
+	<definition name="addQuest" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questions/addQuestion.jsp" />
+	</definition>
+
+	<definition name="editOpt" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/options/editOption.jsp" />
+	</definition>
+	
+	<definition name="showResults" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/onlinetest/results.jsp" />
+	</definition>
+
+	<definition name="setDash" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/dashboard/setDashboard.jsp" />
+	</definition>
+
+	<definition name="showDash" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/dashboard/dashboard.jsp" />
+	</definition>
+
+	<definition name="techBlogEditor" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/blog/editorBody.jsp" />
+	</definition>
+
+	<definition name="signIn" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/login/loginBody.jsp" />
+	</definition>
+
+	<definition name="article" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/article/articleBody.jsp" />
+	</definition>
+
+
+	<definition name="viewArticlePage" extends=".mainTemplate">
+		<!-- <put-attribute name="left" value="/WEB-INF/tiles/left.jsp"/> <put-attribute 
+			name="right" value="/WEB-INF/tiles/right.jsp"></put-attribute> -->
+		<put-attribute name="body"
+			value="/WEB-INF/views/article/viewArticleBody.jsp" />
+	</definition>
+
+	<definition name="demoApp" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/demoapp/demoApp.jsp" />
+	</definition>
+
+	<definition name="wizard" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/technologies/wizard.jsp" />
+	</definition>
+
+	<definition name="showPosts" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/blog/posts.jsp" />
+	</definition>
+	<definition name="showComments" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/blog/viewComments.jsp" />
+	</definition>
+
+	<definition name="postQuest" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/blog/postQuest.jsp" />
+	</definition>
+
+	<definition name="popupLogin" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/login/login.jsp" />
+	</definition>
+
+	<definition name="addTechPopup" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/techTutorial/addTechPopup.jsp" />
+	</definition>
+
+	<definition name="popupAddQuest" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questions/addQuestions.jsp" />
+	</definition>
+
+	<definition name="popupEditQuest" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/adminonline/questions/editQuest.jsp" />
+	</definition>
+
+	<definition name="register" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/login/UserRegistration.jsp" />
+	</definition>
+
+	<definition name="showGenerator" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/generator/options.jsp" />
+	</definition>
+
+	<definition name="candLogin" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/onlinetest/loginCandidate.jsp" />
+	</definition>
+
+	<definition name="showTest" extends=".mainTemplate">
+		<put-attribute name="body" value="/WEB-INF/views/onlinetest/Test.jsp" />
+	</definition>
+
+	<definition name="showResult" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/onlinetest/Results.jsp" />
+	</definition>
+
+	<definition name="registerCand" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/onlinetest/registerCand.jsp" />
+	</definition>
+
+
+	<definition name="getTechTute"
+		template="/WEB-INF/views/admin/techTutorial/getTechTute.jsp">
+	</definition> 
+
+
+	<definition name="saveTechno"
+		template="/WEB-INF/views/admin/techTutorial/saveTechnology.jsp">
+
+	</definition>   
+	<definition name="saveTechTute" extends=".mainTemplate">
+	<put-attribute name="body"	value="/WEB-INF/views/admin/techTutorial/saveTechTute.jsp" />
+
+	</definition>
+
+
+	<definition name="addTechTutePopup" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/techTutorial/addTechTutePopup.jsp" />
+	</definition>
+	
+	
+	<definition name="facade" extends=".facadeTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/home/facade.jsp" />
+	</definition>
+	
+		<definition name="Imgsave" extends=".facadeTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/techTutorial/Imgsave.jsp" />
+	</definition>
+	
+	<definition name="demoAppForm" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/demoapp/demoAppForm.jsp" /> 
+	</definition>
+	
+	<definition name="addDemoTech" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/demoapp/addDemoTech.jsp" /> 
+	</definition>
+	       
+	<definition name="viewResult" extends=".mainTemplate"> 
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/onlinetest/viewResult.jsp" />
+	</definition> 
+	
+	
+	<definition name="getResult" extends=".mainTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/onlinetest/getResult.jsp" /> 
+	</definition>  
+	
+		<definition name="Imgsave" extends=".facadeTemplate">
+		<put-attribute name="body"
+			value="/WEB-INF/views/admin/techTutorial/Imgsave.jsp" />
+	</definition>
+	
+
+</tiles-definitions>   

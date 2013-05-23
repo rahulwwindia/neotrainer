@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/scm/svn/NeoTrainer/!svn/ver/762/neotrainer/src/main/webapp/WEB-INF/views/blog
+END
+viewComments.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/svn/NeoTrainer/!svn/ver/779/neotrainer/src/main/webapp/WEB-INF/views/blog/viewComments.jsp
+END
+blogTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/scm/svn/NeoTrainer/!svn/ver/136/neotrainer/src/main/webapp/WEB-INF/views/blog/blogTemplate.jsp
+END
+editorBody.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/scm/svn/NeoTrainer/!svn/ver/306/neotrainer/src/main/webapp/WEB-INF/views/blog/editorBody.jsp
+END
+postQuest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/scm/svn/NeoTrainer/!svn/ver/439/neotrainer/src/main/webapp/WEB-INF/views/blog/postQuest.jsp
+END
+posts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/scm/svn/NeoTrainer/!svn/ver/780/neotrainer/src/main/webapp/WEB-INF/views/blog/posts.jsp
+END

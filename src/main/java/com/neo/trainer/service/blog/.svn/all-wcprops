@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/scm/svn/NeoTrainer/!svn/ver/436/neotrainer/src/main/java/com/neo/trainer/service/blog
+END
+ITechnicalBlogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/scm/svn/NeoTrainer/!svn/ver/130/neotrainer/src/main/java/com/neo/trainer/service/blog/ITechnicalBlogService.java
+END
+ShowPostsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/scm/svn/NeoTrainer/!svn/ver/130/neotrainer/src/main/java/com/neo/trainer/service/blog/ShowPostsService.java
+END
+DeletePostsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/scm/svn/NeoTrainer/!svn/ver/130/neotrainer/src/main/java/com/neo/trainer/service/blog/DeletePostsService.java
+END
+BlogCommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/scm/svn/NeoTrainer/!svn/ver/436/neotrainer/src/main/java/com/neo/trainer/service/blog/BlogCommentService.java
+END
+BlogPostService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/scm/svn/NeoTrainer/!svn/ver/436/neotrainer/src/main/java/com/neo/trainer/service/blog/BlogPostService.java
+END
+DeleteCommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/scm/svn/NeoTrainer/!svn/ver/130/neotrainer/src/main/java/com/neo/trainer/service/blog/DeleteCommentService.java
+END

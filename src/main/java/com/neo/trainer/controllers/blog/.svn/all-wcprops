@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/svn/NeoTrainer/!svn/ver/741/neotrainer/src/main/java/com/neo/trainer/controllers/blog
+END
+BlogController.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/scm/svn/NeoTrainer/!svn/ver/128/neotrainer/src/main/java/com/neo/trainer/controllers/blog/BlogController.java
+END
+BlogPostController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/scm/svn/NeoTrainer/!svn/ver/447/neotrainer/src/main/java/com/neo/trainer/controllers/blog/BlogPostController.java
+END
+BlogComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/scm/svn/NeoTrainer/!svn/ver/741/neotrainer/src/main/java/com/neo/trainer/controllers/blog/BlogComment.java
+END
